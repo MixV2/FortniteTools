@@ -5,7 +5,7 @@
 //#define UE64_4_20 // Use UE 4.20 [64-bit] (Season 3/4) structs.
 //#define UE64_4_22 // Use UE 4.22 [64-bit] (Season 7/8-ish) structs.
 //#define UE64_4_23 // Use UE 4.23 [64-bit] (Season 8-ish/9/10) structs.
-#define UE64_4_25
+//#define UE64_4_25 / Use UE 4.25 [64-bit] (12.61) structs.
 // #define UE64_4_26 // Use UE 4.26 [64-bit] (Season 13/14) structs.
 
 // Version:
